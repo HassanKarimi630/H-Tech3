@@ -8,4 +8,4 @@ https://github.com/HassanKarimi630/H-Tech3
 cd H-Tech3
 
 
-python H-Tech.py
+python H-Tech1.py
